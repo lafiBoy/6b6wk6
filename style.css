@@ -1,0 +1,17 @@
+section{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+    margin: auto;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+button{
+    margin-left: 100px;
+    margin-top: 20px;
+}
